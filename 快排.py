@@ -1,4 +1,4 @@
-li = [9,22,12,1,2,3,4,5,6,7,8]
+li = [9,22,12,1,2,3,4,5,6,7,8,26]
 def quick_sort(list,start,end):
     if start < end:
         left = start
